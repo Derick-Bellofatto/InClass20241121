@@ -11,5 +11,10 @@ namespace InClass20241121
         {
             Console.WriteLine("Hello from HelloWorld.SayHello()");
         }
+
+        public static void SayHello2()
+        {
+            Console.WriteLine("Hello from HelloWorld.SayHello()2");
+        }
     }
 }
